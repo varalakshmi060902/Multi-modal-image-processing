@@ -1,11 +1,11 @@
 # Multi-modal-image-processing
-This project focuses on the detection and segmentation of brain tumors using multi-modal MRI data from pre- operative scans of 146 patients in Nigeria.
+This project focuses on detecting and segmenting brain tumors using multi-modal MRI data from pre-operative scans of 146 patients in Nigeria.
 # Running the application
 After downloading the PROJECT zip file, Follow the given image
 ![image](https://github.com/user-attachments/assets/5d664576-b685-47fa-87f3-593ce2e6e3cb)
-1. Change the directory to PROJECT file, using "cd "\to\path"" command
+1. Change the directory to a PROJECT file, using the "cd "\to\path" command
 2. Run "python app.py runserver" command
-3. You'll get a URL, which can be copied and used in a browser to get to the application.
+3. You'll get a URL that can be copied and used in a browser to access the application.
 ![image](https://github.com/user-attachments/assets/d0524912-ffb0-4c5f-acff-bffb3a0fca62)
 4. Upload any of the .nii files except segmentation on the application and click on predict.
 
